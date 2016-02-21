@@ -1,7 +1,7 @@
 name: cipsy
 favicon: null
-layout_spectrum: 0.1572073542047292
-typography_spectrum: 0.5129929920658469
+layout_spectrum: 0
+typography_spectrum: 0.57161
 cta:
   domain: null
   bucket: null
